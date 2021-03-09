@@ -66,6 +66,6 @@ while running:
         ball.ymove()
         ball.redraw()
     pygame.display.flip()
-    screen.fill((112, 146, 190))
+    screen.fill((255, 0, 0))
     clock.tick(FPS)
 pygame.quit()
